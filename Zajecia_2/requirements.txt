@@ -1,0 +1,5 @@
+skfuzzy
+matplotlib
+scipy
+scikit-fuzzy
+pyparsing
