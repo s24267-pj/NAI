@@ -13,3 +13,6 @@ Make sure you have Python installed, and install these libraries:
 - gymnasium
 - stable_baselines3
 - ale_py
+
+## Video
+[nagranie.mp4](nagranie.mp4)
